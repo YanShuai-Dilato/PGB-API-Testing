@@ -11,8 +11,6 @@ Node js :http://nodejs.org/
 
 Node js npm libary (easily to test api of Phonegap build) :
 
-Source code: https://github.com/mwbrooks/phonegap-build-api-js
-
 Blog article: http://log.michaelbrooks.ca/post/phonegap-build-api-for-node.js
 
 **Recently** All phonegap-build's Docs and Sources directed to [http://github.com/phonegap](http://github.com/phonegap).
